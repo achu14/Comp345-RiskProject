@@ -1,0 +1,7 @@
+#ifndef BUILD_NINJA_PLAYERSTRATEGIESDRIVER_H
+#define BUILD_NINJA_PLAYERSTRATEGIESDRIVER_H
+#include "PlayerStrategies.h"
+
+void testPlayerStrategies();
+
+#endif //BUILD_NINJA_PLAYERSTRATEGIESDRIVER_H

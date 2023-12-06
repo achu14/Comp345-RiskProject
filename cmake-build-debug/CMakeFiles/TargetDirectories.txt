@@ -1,0 +1,5 @@
+C:/Users/tefor/Documents/GitHub/COMP-345/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tefor/Documents/GitHub/COMP-345/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tefor/Documents/GitHub/COMP-345/cmake-build-debug/comp345a1/CMakeFiles/comp345a1.dir
+C:/Users/tefor/Documents/GitHub/COMP-345/cmake-build-debug/comp345a1/CMakeFiles/edit_cache.dir
+C:/Users/tefor/Documents/GitHub/COMP-345/cmake-build-debug/comp345a1/CMakeFiles/rebuild_cache.dir
